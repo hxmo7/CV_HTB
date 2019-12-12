@@ -1,0 +1,104 @@
+Hammad Amjad
+1 Whittington Place, Gartcosh G69 8BF
+Nationality: British
+Languages: English, Urdu 
+07519619054
+hammad_amjad98@hotmail.com
+####################################
+
+Personal Profile 
+
+I am a self-driven, highly motivated student with strong targets and achievements set in mind to pursue my goal of breaking into Information Security. I’m a third year student in Cyber Security & Networks and a member of the Ethical Hacking Society at Glasgow Caledonian University who are the first student led society to host a cyber convention in Scotland on October 12th 2019 (G3C). I have picked up many skills and gained a lot of knowledge along the way from my own independent studying, alongside with studying and preparing for my module exams and assessments. Through my own learning from different online resources being both practical and theory based knowledge, I can say with confidence that I have picked up the skill and habit of paying attention to detail and enumerating everything possible, and thinking outside the box of whatever situation is present. I have an eye for learning, which evokes the determination of working within a challenging scenario. My strong desire and enjoyment for security is what always keeps me wanting to learn more and more. Nothing excites me more than figuring out or learning how a certain vulnerability can be exploited or how this particular protocol is vulnerable to this and so forth and my willingness to constantly learn new things. I spend my days reading blogs, studying from certain online resources or taking lessons from my personal mentor. I’m also active on Twitter where I post a lot of my Hack The Box machines I’ve completed with my thoughts and advice. I enjoy Networking a lot, It’s integrated with the degree I’m studying and it helps me understand a lot of security concepts and just computers in general. 
+
+You can actually view our society website down below, we’re looking to add in the ability to post blogs and I will be actively posting on here once that is ready.
+
+https://www.linkedin.com/in/hammad-amjad-816a18171/
+https://twitter.com/RainSec7
+https://g3c.gcuhacking.com/
+
+
+Education
+
+City of Glasgow College (2016 – 2017)	Higher National Certificate – Software Development
+Grade: B
+Glasgow Caledonian University (2017 – 2021)	BSc (Hons) Cyber Security & Networks
+Expected: 1st class
+
+
+
+Work Experience
+
+Jan 2018 - Current                                            Café Lavena
+
+•	Front of house staff being in charge of taking customer orders and phone orders
+•	Stocking up juice fridges and ordering in general stock for the shop
+•	Preparing cold food in a sharp and fast manner to keep up with the busy environment 
+•	Supervising new staff members
+•	Backup delivery driver for the shop for any unforeseen circumstances
+•	Dealing with customer complaints in a responsible and calm manner
+•	Preparing hot drinks for customers 
+
+
+Skills and Attributes 
+
+
+
+•	Able to remain dedicated and motivated and focused on a given task
+•	Friendly and approachable with excellent interpersonal skills
+•	An excellent team worker with good written and verbal communication skills
+•	Organised, ambitious and disciplined
+•	Strong will to learn new topics
+•	Able to work comfortably in the Linux command prompt as I’ve spent much of my time on HackTheBox and through my modules at university
+
+•	I have been successful in my Integrated Projects of year 1 & 2, both entailed working in an unacquainted team and building and configuring a small – enterprise level network 
+
+
+Achievements
+
+•	Beginning of 2nd year of University joined the GCU Ethical Hacking Society and became an integral member, which allowed me to attend many events such as the FDM marathon. Myself and my Ethical Hacking Society team took third place at FDM’s Hackathon competition competing against skilled Software Development students on creating a live working chatbot for a specific charity which was to be demonstrated at the end of the two-day event. 
+•	Achieved and worked through 41 machines from HackTheBox and 10 CTFs from VulnHub ( still ongoing ) 
+•	One to one sessions with my mentor Heath Adams, former Senior Penetration Tester - now Security Consultant owner, on covering internal Pen Testing methodologies on a real life Physical Engagement meticulously aided the aspects which were my strong points highlighted by Mr Adams himself. I have encountered the Active Directory environment and getting domain admin with the use of common methodologies and using tools to dump credentials from memory
+•	Learnt to fully enumerate open ports, as I have made contact with many different exploits and running services in the machines I’ve encountered 
+•	A stall was hosted by the GCU Ethical Hacking Society during Scottish Cyber Week in Glasgow Central Station educating and causing awareness of Cyber threats and advice on how to increase personal privacy.  
+1.	Which thoroughly increased communication skills by constantly interacting with the public
+2.	Answering questions which may not be within my knowledge but using the advice of colleagues and myself
+3.	Helped build my people skills, being friendly and approachable with excellent interpersonal skills
+
+•	I understand the concept behind an Active Directory attack and common ways on exploiting. This involved  LLMNR/NBT-NS Poisoning and how tools such as Responder relies on the failure of DNS resolution to return credentials and how we can use these captured credentials to credential spray and pivot around the network where possible. I have been into contact with Metasploit modules like psexec when having to “Pass the hash” to login to a system via the SMB protocol. I also know other methods exist for gaining access and privileges, a different approach would be going for an “ntlmrelay” attack. 
+
+Many more complex tools exist and methods like bloodhound which can be used to map the AD itself and provide a graphical view of the system accounts and the paths of exploitation and lateral movement. I’ve only been in touch with this tool once before and wish to further my knowledge on this incredible tool.
+
+
+
+
+Course Modules
+
+Below are the modules I have studied that I feel are important to mention:
+
+Computer Networking 1: 75%
+
+Secure System Administration: 80%
+
+Computer Networking 2: 76%
+
+Cyber Security Operations: 78% 
+     Coursework which involved malware investigation and impersonating a cyber analyst’s job: 89%
+
+ Integrated Design Project 2: 67%
+
+
+
+
+Personal Interest 
+
+I am an individual who attends the gym regularly and competed in Muay Thai. I have always adored the world of sports and working hard to achieve a high level of athleticism. I train twice a day and always going for my afternoon / evening runs throughout the week to stay fit and ready if I ever feel the desire to compete again. Alongside sports – gaming is something I enjoy as a temporary escape from life and computer hardware is a subject which recently, I’ve found a passion for. I have begun to assemble my own computer from scratch.  Lock picking is another hobby which fascinates me and which I do from time to time and will continue to build upon.
+
+Whenever I’m not doing any of these hobbies – It means I’m on my laptop doing machines from HackTheBox, doing the labs from Immersivelabs, reading blogs on pen testing and bug bounties, taking a lesson from my Mentor or watching YouTube videos and learning from experienced highly skilled professionals in this field and taking notes and applying them whenever I can. I like reading books so I have a small collection to read into such as : The Web Application Hackers handbook 2, The Hacker Playbook 2, LTR101-Breaking Into Infosec and Red Team Field Manual which always provide me with the knowledge I need. I’m also preparing myself to take certifications – I have a set route of certifications I wish to follow and achieve before I finish my degree, one notable to mention is the  Offensive Security “OSCP”, which I will without a doubt make sure I have before I graduate.
+
+I understand the depth of cyber security and the endless knowledge to be gained – therefore I continue to study and learn new topics all the time.
+
+ I would like to call myself a very productive individual who is just highly determined to break into InfoSec and achieve my dream job of penetration testing.
+
+
+
+ 
